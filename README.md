@@ -5,3 +5,4 @@ The visuals are self explanatory with adequate texts provided against them to ex
 The second file which is Lab 2 is my analysis on the Disney Movie reviews Dataset from Kaggle.My Analysis focussed on extracting key-words from the 
 review text and analyze the impact of the key-words on the overall sentiment and rating by the reviewers.The interesting part of this analysis is that 
 the whole of sentiment analysis is carried out on Tableau.
+https://public.tableau.com/app/profile/naveena.chatti/viz/OurSolarSystem_17200696901410/Story1
